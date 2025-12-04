@@ -1,3 +1,5 @@
+English | [中文](README.zh-CN.md)
+
 # Pause and Clarify Prompts
 
 ## 1. Common Pain Points
