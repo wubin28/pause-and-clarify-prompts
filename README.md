@@ -450,9 +450,11 @@ Click the "Save" button to save.
 
 At this point, you can test in the "Debug & Preview" area on the right side of the interface. Copy the 6 lines within the outer【】at the end of the opening message, paste them into the "Talk to Bot" prompt input box below, replace the 6 inner【】placeholders with content that matches the user's actual situation, then click the submit button in the lower right corner to send to AI to start the conversation session.
 
-## 5. Experience the Pause and Clarify Feature of the "College Major Selection Advisor" Agent
+The sample agent in this section is available on Dify cloud service at: https://udify.app/chat/cj9jnvnAaHx7H0S8
 
-### 5.1 Opening Prompt Individual Example
+### 4.9 Experience the Pause and Clarify Feature of the "College Major Selection Advisor" Agent
+
+Open the above link in your browser and click the "Start new chat" button in the upper left. Copy the content within the outer【】at the end of the opening message, paste it into the prompt input area below. Replace the content within the inner【】with information suitable for your situation, then click the submit button in the lower right corner to send to AI to start the conversation. As shown below:
 
 ```
 City where I took college entrance exam: 【Beijing】
@@ -463,13 +465,17 @@ Hobbies and interests: 【Friendship, mobile and computer games】
 Expected work type: 【Interesting, friendly colleagues, close to home】
 ```
 
-(Subsequent content omitted)
+After that, follow the sequence RESEARCH -> INNOVATE -> PLAN -> EXECUTE -> REVIEW, entering commands as required above (such as "ENTER INNOVATE MODE", "ENTER PLAN MODE", "ENTER EXECUTE MODE", "ENTER REVIEW MODE") to experience the pause and clarify feature.
+
+Note in RESEARCH mode: Even if AI claims to fully understand your requirements, and even proactively clarifies questions with you and receives responses, you should still ask "Do you have any more questions about my requirements that need clarification? I can answer them." Don't rush to enter the next mode. Even if AI has already entered INNOVATE mode on its own, you should request in your prompt that it return to RESEARCH mode and persist in asking until AI explicitly states there are no more questions that need clarification.
+
+If the content generated in EXECUTE mode meets expectations, you can skip REVIEW mode.
 
 ---
 
 ## License
 
-MIT License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributing
 
