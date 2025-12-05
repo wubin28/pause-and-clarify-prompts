@@ -913,3 +913,7 @@ n. [最终操作]
 ## 联系方式
 
 如有问题或建议,请在 GitHub 上提出 issue。
+
+---
+
+最初的 RIPPER-5 框架由以下作者创作：[robot love human](https://forum.cursor.com/t/i-created-an-amazing-mode-called-riper-5-mode-fixes-claude-3-7-drastically/65516)

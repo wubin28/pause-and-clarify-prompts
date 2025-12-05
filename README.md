@@ -913,3 +913,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Contact
 
 For questions or suggestions, please open an issue on GitHub.
+
+---
+
+The orginial RIPER-5 framework is by: [robotlovehuman](https://forum.cursor.com/t/i-created-an-amazing-mode-called-riper-5-mode-fixes-claude-3-7-drastically/65516)
